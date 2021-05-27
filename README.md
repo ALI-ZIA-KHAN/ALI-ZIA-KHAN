@@ -1,29 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rupam Shil</h1>
+<h1 align="center">Hi 👋, I'm Ali Zia Khan</h1>
 <h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rupam-shil" alt="rupam-shil" /> </p>
+<p align="center"> <img src="https://th.bing.com/th/id/Re7f0fc98cb2eed2fddb41bd3df796f13?rik=NG3bxyvCY7YdJw&pid=ImgRaw" alt="ALI-ZIA-KHAN" /> </p>
  
  ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
 
 
 - 🔭 I’m currently working on **Front-End Development**
 
-- 👯 I’m looking to collaborate on <a href="https://github.com/Rupam-Shil/ML-mini-projects.git"><strong>ML-miniprojects</strong></a>
+- 👯 I’m looking to collaborate on **MERN Stack**
 
-- 🤔 I’m looking for help with **MEVN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rupam-Shil?tab=repositories](https://github.com/Rupam-Shil?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ALI-ZIA-KHAN?tab=repositories](https://github.com/ALI-ZIA-KHAN?tab=repositories)
 
-- 📝 I regulary create content on [https://www.instagram.com/mlbackbenchers/](https://www.instagram.com/mlbackbenchers/)
 
-- 💬 Ask me about **Machine-Learning, Web-Dev, Python**
 
-- 📫 How to reach me **rupamshil111@gmail.com**
+- 💬 Ask me about **Deep-Learning, Web-Dev, Python**
 
-- ⚡ Follow me **https://www.instagram.com/mlbackbenchers/**
+- 📫 How to reach me **azk443.443@gmail.com@gmail.com**
 
-- ⚡ Follow me **https://www.instagram.com/imrupamshil/**
 
-- 👨‍ Check me out **https://rupamshil.netlify.app/**
+- ⚡ Follow me **https://www.instagram.com/i_am_ali_zk/**
+
+- 👨‍ Check me out at LinkedIn **https://www.linkedin.com/in/alizk16**
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
 <tr>
@@ -44,9 +42,6 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
-    </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
@@ -80,7 +75,7 @@
 </table>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rupam-Shil&show_icons=true&theme=synthwave" alt="rupam-shil" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ALI-ZIA-KHAN&show_icons=true&theme=synthwave" alt="rupam-shil" /> </p>
 
 
 
@@ -88,17 +83,17 @@
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/rupam.shil.14" alt="Facebook"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/facebook.png"></a>
-    <a target= "_blank" href="https://github.com/Rupam-Shil/" alt="Github"><img height='45' src="hhttps://github.com/Rupam-Shil/Rupam-Shil/blob/master/github.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/imrupamshil/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/mlbackbenchers/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
-    <a target= "_blank" href="https://www.linkedin.com/in/rupam-shil/" alt="LinkedIn"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/linkedin.png"></a>
+    <a target= "_blank" href="https://web.facebook.com/heroism92?_rdc=1&_rdr" alt="Facebook"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/facebook.png"></a>
+    <a target= "_blank" href="https://github.com/ALI-ZIA-KHAN/" alt="Github"><img height='45' src="hhttps://github.com/Rupam-Shil/Rupam-Shil/blob/master/github.png"></a>
+    <a target= "_blank" href="https://twitter.com/AliZKhan17?hl=en" alt="Twitter"><img height='45' src="https://th.bing.com/th/id/R65dcaa33a57ae0823354fb82528fd944?rik=U07%2bR1vrkJFySQ&pid=ImgRaw"></a>
+    <a target= "_blank" href="https://www.instagram.com/i_am_ali_zk/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
+    <a target= "_blank" href="https://www.linkedin.com/in/alizk16/" alt="LinkedIn"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/linkedin.png"></a>
     
   </p>
   
 </p>
 <p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=synthwave">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-ZIA-KHAN&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=synthwave">
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Rupam-Shil&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<img src="https://activity-graph.herokuapp.com/graph?username=ALI-ZIA-KHAN&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
