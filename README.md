@@ -30,7 +30,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://th.bing.com/th/id/Rcedf6c0bcea24bef375b62df98721933?rik=H9ylpN1EnVKeEQ&pid=ImgRaw">
     </td>
     <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
@@ -39,10 +39,13 @@
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="60">
+        <img src="https://th.bing.com/th/id/R07dc8af5285ecd06b40a1db38c8c5f94?rik=hD1LFQSLaa0vOA&pid=ImgRaw" width="60">
     </td>
 </tr>
 <tr>
+ <td align='center'>
+        <img src="https://assets.toptal.io/uploads/blog/category/logo/25/express_js.png" >
+    </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
@@ -64,7 +67,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="60">
+        <img src="https://th.bing.com/th/id/R556fc77e7f776ab8304c017e567b2f4b?rik=%2fvrp8e06j%2f0d2g&pid=ImgRaw" width="60">
     </td>
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
