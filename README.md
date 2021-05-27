@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ali Zia Khan</h1>
-<h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
+<h1 align="center">Hi 👋, I'm Ali </h1>
+<h1 align="center">Student of BE SOFTWARE ENGINEERING :office: ✨</h1>
+<h3 align="center">- ⚡ Fun fact: I am not always coding.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALI-ZIA-KHAN" alt="ALI-ZIA-KHAN" /> </p>
-<p align="center"> <img src="https://th.bing.com/th/id/Re7f0fc98cb2eed2fddb41bd3df796f13?rik=NG3bxyvCY7YdJw&pid=ImgRaw" alt="ALI-ZIA-KHAN" /> </p>
+<p align="center"> <img src="https://pbs.twimg.com/profile_images/1277983466689376257/XYVxh8lA_400x400.jpg" alt="ALI-ZIA-KHAN" /> </p>
  
  
 
