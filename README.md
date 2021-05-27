@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Zia Khan</h1>
 <h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ALI-ZIA-KHAN" alt="ALI-ZIA-KHAN" /> </p>
 <p align="center"> <img src="https://th.bing.com/th/id/Re7f0fc98cb2eed2fddb41bd3df796f13?rik=NG3bxyvCY7YdJw&pid=ImgRaw" alt="ALI-ZIA-KHAN" /> </p>
  
- ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
+ 
 
 
 - 🔭 I’m currently working on **Front-End Development**
