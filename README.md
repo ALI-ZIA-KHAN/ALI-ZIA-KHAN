@@ -45,36 +45,36 @@
     </td>
 </tr>
 <tr>
- <td align='center'>
+ <td align='center'  height="190">
         <img src="https://assets.toptal.io/uploads/blog/category/logo/25/express_js.png" >
     </td>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
 </tr>
 <tr>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
     </td>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://th.bing.com/th/id/R556fc77e7f776ab8304c017e567b2f4b?rik=%2fvrp8e06j%2f0d2g&pid=ImgRaw" width="60">
     </td>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
-    <td align='center'>
+    <td align='center'  height="190">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
     </td>
 </tr>
@@ -82,16 +82,16 @@
     <td align='center' width="190" height="190">
         <img src="https://raw.githubusercontent.com/reactjs/redux/24bab8f05987542ffd186c19400a80f12f717492/logo/logo.png" width="60">
     </td>
-    <td align='center' width="190" height="190">>
+    <td align='center' width="190" height="190">
         <img src="https://th.bing.com/th/id/R.d5a162e771104b073413c82a5fb2bd74?rik=ThRHHU%2f8kyoIOg&pid=ImgRaw&r=0" width="60">
     </td>
-    <td align='center' width="190" height="190">>
+    <td align='center' width="190" height="190">
         <img src="https://th.bing.com/th/id/R.e64c03abedfea55ce442815b6339b9b4?rik=U2JqphGL2FU2Fw&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2020%2f11%2fFigma-logo-F-icon.png&ehk=Y5r77wZJiIEbpgGnZR6EsGOdaUQNoTlTBJl6gvGAMT0%3d&risl=&pid=ImgRaw&r=0" width="60">
     </td>
-    <td align='center' width="190" height="190">>
+    <td align='center' width="190" height="190">
         <img src="https://th.bing.com/th/id/OIP.Pqzk1UKnuqIUyE_Ge0tjGAHaHW?pid=ImgDet&rs=1" width="60">
     </td>
-    <td align='center' width="190" height="190">>
+    <td align='center' width="190" height="190">
         <img src="https://th.bing.com/th/id/R.07cf1733e3b519640153de552dbb9ecf?rik=0xN2%2bxe%2fosNzVg&pid=ImgRaw&r=0" width="60">
     </td>
 </tr>
