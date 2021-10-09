@@ -78,6 +78,23 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
     </td>
 </tr>
+ <tr>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/reactjs/redux/24bab8f05987542ffd186c19400a80f12f717492/logo/logo.png" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://th.bing.com/th/id/R.d5a162e771104b073413c82a5fb2bd74?rik=ThRHHU%2f8kyoIOg&pid=ImgRaw&r=0" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://th.bing.com/th/id/R.e64c03abedfea55ce442815b6339b9b4?rik=U2JqphGL2FU2Fw&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2020%2f11%2fFigma-logo-F-icon.png&ehk=Y5r77wZJiIEbpgGnZR6EsGOdaUQNoTlTBJl6gvGAMT0%3d&risl=&pid=ImgRaw&r=0" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://th.bing.com/th/id/OIP.o2it4K3-OI4mKvcIK-r6WAAAAA?pid=ImgDet&rs=1" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
+    </td>
+</tr>
 </table>
 
 
