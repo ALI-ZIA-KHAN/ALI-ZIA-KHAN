@@ -8,16 +8,16 @@
  
 
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently learning  **Blockchain**
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 Being a Mobile and Web Developer I’m looking to collaborate on **MERN Stack and React Native Projects**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALI-ZIA-KHAN?tab=repositories](https://github.com/ALI-ZIA-KHAN?tab=repositories)
 
 
 
-- 💬 Ask me about **Deep-Learning, Web-Dev, Python**
+- 💬 Ask me about **Deep-Learning, Web-Dev, Python, JavaScript, .NET**
 
 - 📫 How to reach me **azk443.443@gmail.com@gmail.com**
 
