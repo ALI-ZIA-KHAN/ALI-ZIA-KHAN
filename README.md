@@ -116,7 +116,7 @@
   
 </p>
 <p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-ZIA-KHAN&theme=synthwave">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-ZIA-KHAN&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515">
 <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=synthwave">
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=ALI-ZIA-KHAN&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
