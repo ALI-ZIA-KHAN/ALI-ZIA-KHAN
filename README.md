@@ -3,7 +3,7 @@
 <h3 align="center">- ⚡ Fun fact: I am not always coding.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALI-ZIA-KHAN" alt="ALI-ZIA-KHAN" /> </p>
 <!-- <p align="center"> <img src="https://pbs.twimg.com/profile_images/1277983466689376257/XYVxh8lA_400x400.jpg" alt="ALI-ZIA-KHAN" /> </p> -->
-<p align="center"> <img src="https://th.bing.com/th/id/Ra5460523af2588eaf0c12260f109fdd3?rik=H0MKdf3p%2fhkGig&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f07%2fComputer-Science-HD-Photo.jpg&ehk=02h%2bK2ZaaGtg9hUfklTCBdekIR%2f2c6UYdklkrMXp39w%3d&risl=&pid=ImgRaw" alt="ALI-ZIA-KHAN" /> </p>
+<p align="center"> <img src="https://bpoacceptor.com/ecesisjobs.com/assets/img/programjobs.jpg" alt="ALI-ZIA-KHAN" /> </p>
  
  
 
