@@ -95,6 +95,25 @@
         <img src="https://th.bing.com/th/id/R.07cf1733e3b519640153de552dbb9ecf?rik=0xN2%2bxe%2fosNzVg&pid=ImgRaw&r=0" width="60">
     </td>
 </tr>
+
+
+ <tr>
+    <td align='center' width="190" height="190">
+        <img src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg" width="60">
+    </td>
+    <td align='center' width="190" height="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" width="60">
+    </td>
+    <td align='center' width="190" height="190">
+        <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="60">
+    </td>
+    <td align='center' width="190" height="190">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9QhvqWw33WQpsyPc9XpZ21DFgYEVLXJpoWNDLMDyV&s" width="60">
+    </td>
+    <td align='center' width="190" height="190">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaaUS_t6rB2Url3Elhc0xh11HlxNrvSz6TcvgliX86u4DjWaU99m2O-4aOFMBY7nU_Zjw&usqp=CAU" width="60">
+    </td>
+</tr>
 </table>
 
 
