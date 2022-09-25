@@ -135,26 +135,10 @@
   
 </p>
 <br/>
-<br/>
-
-
-<p align="center">
- <img 
-     height="200px"
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=ALI-ZIA-KHAN&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-     alt="Ali's stat"
-     bg_color=#808080
-     />
- </p>
-<p align="center">
-<img 
-     height="200px"
-     align="right"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=dark"
-     />
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-ZIA-KHAN&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=synthwave">
 </p>
-<br/>
-<br/>
 <p> 
 <a href="https://github.com/ALI-ZIA-KHAN/github-readme-activity-graph">
   <img alt="Ali's Activity Graph" 
