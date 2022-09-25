@@ -119,6 +119,18 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ALI-ZIA-KHAN&show_icons=true&theme=synthwave" alt="rupam-shil" /> </p>
 
+<details>
+  <summary>📈 Latest Activity Graph</summary>
+  <samp>
+  <br/>
+  <h2 align="center"> latest contribution </h2>
+<a href="https://github.com/ALI-ZIA-KHAN/github-readme-activity-graph">
+  <img alt="Ali's Activity Graph" 
+  src="https://activity-graph.herokuapp.com/graph/?username=ALI-ZIA-KHAN&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<br/>
+  </samp>
+  </details>
+
 
 
 <p align="center">
