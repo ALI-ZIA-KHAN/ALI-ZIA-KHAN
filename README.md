@@ -122,8 +122,9 @@
 </p>
 
 <div>
-
+<p align="center">
     <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+ </p>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/alizk16/" target="blank"><img align="center"
@@ -135,6 +136,7 @@
       <a href="mailto:azk443.443@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
+     <br/>
     </p>
   <p align="center">
       <a href="https://www.instagram.com/i_am_ali_zk/?hl=en" target="blank"><img align="center"
@@ -152,21 +154,6 @@
 </div>
 
 
-
-
-<p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
-
-  <p align="center">
-    <a target= "_blank" href="https://web.facebook.com/heroism92?_rdc=1&_rdr" alt="Facebook"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/facebook.png"></a>
-    <a target= "_blank" href="https://github.com/ALI-ZIA-KHAN/" alt="Github"><img height='45' src="hhttps://github.com/Rupam-Shil/Rupam-Shil/blob/master/github.png"></a>
-    <a target= "_blank" href="https://twitter.com/AliZKhan17?hl=en" alt="Twitter"><img height='45' src="https://th.bing.com/th/id/R65dcaa33a57ae0823354fb82528fd944?rik=U07%2bR1vrkJFySQ&pid=ImgRaw"></a>
-    <a target= "_blank" href="https://www.instagram.com/i_am_ali_zk/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
-    <a target= "_blank" href="https://www.linkedin.com/in/alizk16/" alt="LinkedIn"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/linkedin.png"></a>
-    
-  </p>
-  
-</p>
 <br/>
 <p align="left">
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-ZIA-KHAN&theme=synthwave">
