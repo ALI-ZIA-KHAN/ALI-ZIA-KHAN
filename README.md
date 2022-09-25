@@ -140,7 +140,7 @@
 
 <p align="center">
  <img 
-     height="300px"
+     height="250px"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=ALI-ZIA-KHAN&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
      alt="Ali's stat"
      bg_color=#808080
@@ -149,9 +149,10 @@
 <p align="center">
 <img 
      height="300px"
-     width="500px"
+    
      align="right"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=dark"
+      alt="Ali's stat"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=dark&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
      />
 </p>
 <br/>
