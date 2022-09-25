@@ -135,7 +135,7 @@
   
 </p>
 
-<p>
+<p align="center">
  <img 
      align="left"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=ALI-ZIA-KHAN&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -150,8 +150,9 @@
 <br/>
 <br/>
 
- <h2 align="center"> 📈 Latest Activity Graph </h2>
+ 
 <p> 
+ <h2 align="center"> 📈 Latest Activity Graph </h2>
 <a href="https://github.com/ALI-ZIA-KHAN/github-readme-activity-graph">
   <img alt="Ali's Activity Graph" 
   src="https://activity-graph.herokuapp.com/graph/?username=ALI-ZIA-KHAN&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
