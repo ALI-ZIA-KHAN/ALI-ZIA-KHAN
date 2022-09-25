@@ -134,24 +134,21 @@
   </p>
   
 </p>
-
-<p>
+<br/>
+<br/>
+<p align="left">
  <img 
-     
-     align="left"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=ALI-ZIA-KHAN&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
      alt="Ali's stat"
      bg_color=#808080
      />
 
-<img align="right" 
+<img align="right"
      src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=dark"
      />
 </p>
 <br/>
 <br/>
-
- 
 <p> 
 <a href="https://github.com/ALI-ZIA-KHAN/github-readme-activity-graph">
   <img alt="Ali's Activity Graph" 
