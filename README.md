@@ -135,15 +135,16 @@
   
 </p>
 
-<p align="center">
+<p>
  <img 
+     
      align="left"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=ALI-ZIA-KHAN&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
      alt="Ali's stat"
      bg_color=#808080
      />
 
-<img align="right" height="300px" width="450px"
+<img align="right" 
      src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=dark"
      />
 </p>
