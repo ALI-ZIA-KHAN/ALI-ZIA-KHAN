@@ -134,9 +134,10 @@
   </p>
   
 </p>
-<p align="left">
+<p >
  
 <img 
+     align="left"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=ALI-ZIA-KHAN&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
      alt="Ali's stat"
      bg_color=#808080
@@ -146,6 +147,7 @@
      src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&theme=dark"
      />
 </p>
+<br/>
 
 
  <h2 align="center"> 📈 Latest Activity Graph </h2>
