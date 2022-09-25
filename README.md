@@ -135,9 +135,16 @@
   
 </p>
 <p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-ZIA-KHAN&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true">
+ 
+<img 
+     height="250px" 
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=ALI-ZIA-KHAN&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+     alt="Ali's stat"
+     bg_color=#808080
+     >
+
 <img align="right" height="300px" width="500px"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"">
+     src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-ZIA-KHAN&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat">
 </p>
 
 
