@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali </h1>
-<h1 align="center">Student of BE SOFTWARE ENGINEERING :office: ✨</h1>
-<h3 align="center">- ⚡ Fun fact: I am not always coding.</h3>
+<h1 align="center">SOFTWARE ENGINEER :office: ✨</h1>
+<h3 align="center">- ⚡Fun fact: I am not always coding.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALI-ZIA-KHAN" alt="ALI-ZIA-KHAN" /> </p>
 <!-- <p align="center"> <img src="https://pbs.twimg.com/profile_images/1277983466689376257/XYVxh8lA_400x400.jpg" alt="ALI-ZIA-KHAN" /> </p> -->
 <p align="center"> <img src="https://bpoacceptor.com/ecesisjobs.com/assets/img/programjobs.jpg" alt="ALI-ZIA-KHAN" /> </p>
@@ -8,7 +8,7 @@
  
 
 
-- 🔭 I’m currently learning  **Blockchain**
+- 🔭 I’m currently learning and exploring **Blockchain**
 
 - 👯 Being a Mobile and Web Developer I’m looking to collaborate on **MERN Stack and React Native Projects**
 
@@ -17,9 +17,9 @@
 
 
 
-- 💬 Ask me about **Deep-Learning, Web-Dev, Python, JavaScript, .NET**
+- 💬 Ask me about **Blockchain, Web Development, Python, JavaScript, Mobile App Development**
 
-- 📫 How to reach me **azk443.443@gmail.com@gmail.com**
+- 📫 How to reach me **azk443.443@gmail.com**
 
 
 - ⚡ Follow me **https://www.instagram.com/i_am_ali_zk/**
