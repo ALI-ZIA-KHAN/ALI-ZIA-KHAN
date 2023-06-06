@@ -22,7 +22,7 @@
 - 📫 How to reach me **azk443.443@gmail.com**
 
 
-- ⚡ Follow me **https://www.instagram.com/i_am_ali_zk/**
+- ⚡ Have a look at my CV  **(https://drive.google.com/file/d/1_ZEW-NGqL1nkxukx8o_yqNJR7M8roK31/view?usp=sharing)**
 
 - 👨‍ Check me out at LinkedIn **https://www.linkedin.com/in/alizk16**
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
