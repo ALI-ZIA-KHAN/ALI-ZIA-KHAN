@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali </h1>
+<h1 align="center" color="white" >Hi 👋, I'm Ali </h1>
 <h1 align="center">SOFTWARE ENGINEER :office: ✨</h1>
 <h3 align="center">- ⚡Fun fact: I am not always coding.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALI-ZIA-KHAN" alt="ALI-ZIA-KHAN" /> </p>
